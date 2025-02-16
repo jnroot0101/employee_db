@@ -7,4 +7,7 @@ add_executable(employee_db main.cpp
         Employee.cppm
         Employee.cpp
         EmployeeTest.cpp
+        Database.cppm
+        Database.cpp
+        DatabaseTest.cpp
 )
